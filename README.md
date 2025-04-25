@@ -9,14 +9,6 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-        echo "# Vernanda-Yneza" >> README.md
-        git init
-        git add README.md
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/Vernanda-Yneza/Vernanda-Yneza.git
-        git push -u origin main
-    </head>
     <body>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
         <script>
@@ -80,7 +72,9 @@
                         <div class="progress mb-3">
                             <div class="progress-bar bf-danger" style="width: 75%;">75%</div>
                         </div>
-                    </div>
+                    </div>![Uploadin![render 4](https://github.com/user-attachments/assets/a73d19d3-82a2-4896-a395-77b9c1a349d7)
+g rdr v2 bright.jpg…]()
+
                 </div>
             </div>
         </section>
